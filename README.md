@@ -1,2 +1,2 @@
-# Kotlin_CodeTraining
-Training with Kotlin 
+# Kotlin_Algorithms
+Algorithms with Kotlin 
